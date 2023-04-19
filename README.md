@@ -7,7 +7,7 @@
 <br />
 
 
-<p>Atualmente estou focado no desenvolvimento frontend com React, Typescript, TDD e Clean Architecture.
+<p>Atualmente estou focado no desenvolvimento frontend com React, Typescript e Next
 
 Gosto de desenvolver problemas reais e que ajude as pessoas, no momento estamos desenvolvendo o Luna bus, um aplicativo de transporte público para cidades de pequeno e médio porte
 
