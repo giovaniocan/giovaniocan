@@ -4,6 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Giovani+Ocan;I'm+18+years+old;I'm+from+Brazil;I'm+a+Front-End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
+<br />
 
 
 <p>Atualmente estou focado no desenvolvimento frontend com React, Typescript, TDD e Clean Architecture.
@@ -105,4 +106,8 @@ Gosto de desenvolver problemas reais e que ajude as pessoas, no momento estamos 
 
 <br />
 
+<div align="center">
+
   ![Snake animation](https://github.com/giovaniocan/giovaniocan/blob/output/github-contribution-grid-snake.svg)
+
+    </div>
