@@ -25,7 +25,7 @@ Gosto de desenvolver problemas reais e que ajude as pessoas, no momento estamos 
 
   - 🗣️ Inglês avançado e Espanhol intermédiario
  
-  - 📝 [Currículo](https://www.dropbox.com/s/6okof7dvd4k6x68/Roxo%20Escuro%20Foto%20de%20Mulher%20Atendimento%20ao%20Cliente%20Curr%C3%ADculo_pdf.pdf?dl=0)
+  - 📝 [Currículo](https://www.dropbox.com/s/7pi54wwioz5u09p/Roxo%20Escuro%20Foto%20de%20Mulher%20Atendimento%20ao%20Cliente%20Curr%C3%ADculo_pdf%20%282%29.pdf?dl=0)
 
   - 📱 [Portfólio](https://portfolio-one-inky-77.vercel.app/)
 
