@@ -24,7 +24,10 @@ Gosto de desenvolver problemas reais e que ajude as pessoas, no momento estamos 
   - 🎓 Técnico em informática integrado ao ensino médio no IFPR e cursando na Rocketseat
 
   - 🗣️ Inglês avançado e Espanhol intermédiario
+ 
+  - 📝 [Currículo](https://www.dropbox.com/s/6okof7dvd4k6x68/Roxo%20Escuro%20Foto%20de%20Mulher%20Atendimento%20ao%20Cliente%20Curr%C3%ADculo_pdf.pdf?dl=0)
 
+  - 📱 [Portfólio](https://portfolio-one-inky-77.vercel.app/)
 
   - 💻 Projetos pessoais com maior destaque: [Luna bus](https://lunabus.com.br)
 
@@ -75,7 +78,7 @@ Gosto de desenvolver problemas reais e que ajude as pessoas, no momento estamos 
     <br />
     - Outras tecnologias
     <div style="display: inline_block">
-      <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />/>
+      <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     </div>
 </details>
 
