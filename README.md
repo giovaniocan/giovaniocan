@@ -1,117 +1,61 @@
+<!-- Início do cabeçalho -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4328fb&height=120&section=header"/>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Giovani+Ocan;I'm+18+years+old;I'm+from+Brazil;I'm+a+Front-End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
-<br />
+<!-- Título dinâmico -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Giovani+Apolinario+Ocan%2C+a+Full+Stack+Software+Engineer)](https://git.io/typing-svg)
 
 
-<p>Atualmente estou focado no desenvolvimento frontend com React, Typescript e Next
 
-Gosto de desenvolver problemas reais e que ajude as pessoas, no momento estamos desenvolvendo o Luna bus, um aplicativo de transporte público para cidades de pequeno e médio porte
+## Perfil
 
-"Make the difference".
-</p>
+Sou um desenvolvedor Full Stack, com experiência no desenvolvimento front end em aplicações React.js/Next.js, aplicações React Native e em back-end usando Node.js e Ruby On Rails, criando aplicações escaláveis, melhorando o desempenho das aplicações e integração. Sou uma pessoa colaborativa e entusiasmada, dedicado a otimizar processos e resolver eficientemente problemas de projetos.
 
-<br />
+## Histórico Profissional
 
-<details>
-  <summary><strong>👤 Sobre mim</strong></summary> 
+### Full Stack Software Engineer Freelancer, Remoto
+#### Julho de 2022 — presente
+- Desenvolvimento web e mobile utilizando React.js, React Native, Node.js e Ruby On Rails.
+- Construção de interfaces responsivas e melhoria de desempenho.
+- Colaboração em projetos multiplataforma com metodologia Agile.
   
-  - 🔥 Desenvolvedor Frontend Júnior
+### Fundador e Front End Software Engineer na Luna Bus, Presencial
+#### Novembro 2022 — Janeiro 2024
+- Fundação de uma startup para soluções de transporte público em cidades de pequeno e médio porte.
+- Desenvolvimento de sistemas web com React.js, Next.js e TypeScript.
+- Implementação de controle de versão Git e metodologia Agile.
+  
+### Front End Engineer na inkPen, Remoto
+#### Julho 2023 — Novembro 2023
+- Colaboração em uma plataforma de gestão escolar.
+- Especialização em React.js, Next.js, TypeScript e Tailwind CSS.
+- Gerenciamento de controle de versão com Git e GitHub.
+  
+### Front End Engineer no Instituto Federal do Paraná
+#### Julho 2022 — Outubro 2022
+- Liderança em projetos de desenvolvimento full-stack com React e Node.js.
+- Implementação de APIs REST e gerenciamento de versões com Git.
 
-  - 🎓 Técnico em informática integrado ao ensino médio no IFPR e cursando na Rocketseat
+## Educação
+- Técnico em Informática, Instituto Federal do Paraná, Câmpus Avançado Goioerê - PR (Janeiro 2019 — Dezembro 2022)
+- Bacharelado em Engenharia de Software, Biopark - PR (Janeiro 2024 — Dezembro 2027)
 
-  - 🗣️ Inglês avançado e Espanhol intermédiario
- 
-  - 📝 [Currículo](https://www.dropbox.com/s/7pi54wwioz5u09p/Roxo%20Escuro%20Foto%20de%20Mulher%20Atendimento%20ao%20Cliente%20Curr%C3%ADculo_pdf%20%282%29.pdf?dl=0)
+## Cursos
+- Full Stack Developer HTML | CSS3 | React | Javascript | TypeScript | Next | Node | React Native | Rocketseat (Julho 2022 — Agosto 2023)
+- Inglês fluente, Fluency Academy (Janeiro 2023 — Dezembro 2023)
+- Ruby on Rails, Jackson Pires (Janeiro 2024 — presente)
 
-  - 📱 [Portfólio](https://portfolio-one-inky-77.vercel.app/)
+## Contato
+- 📱 +55 44 99842-8989
+- 📧 giovaniocan@gmail.com
 
-  - 💻 Projetos pessoais com maior destaque: [Luna bus](https://lunabus.com.br)
+## Links
+- [LinkedIn](https://www.linkedin.com/in/giovani-ocan/)
+- [GitHub](https://github.com/giovaniocan)
 
-<br />
-</details>
-<br />
-<details>
-  <summary><strong>📬 Entre em contato comigo</strong></summary>
-  <div>
-    <br />
-    <a href="mailto:giovaniocan@gmail.com">
-      <img 
-        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" alt="gmail">
-    </a>
-    <a href="https://www.instagram.com/giovani_ocan/">
-      <img 
-        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" 
-        alt="instagram">
-    </a>
-    <a href="https://www.linkedin.com/in/giovani-ocan/">
-      <img 
-        src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" 
-        alt="linked-in">
-    </a>
-  </div>
-</details>
-
-<br />
-
-<details>
-    <summary><strong>🛠 &nbsp;Skills</strong></summary>
-    <br />
-    - Linguagens
-    <div style="display: inline_block">
-      <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-      <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-      <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    </div>
-    <br />
-    - Frontend
-    <div style="display: inline_block">
-      <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
-      <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-      <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-    </div>
-    <br />
-    <br />
-    - Outras tecnologias
-    <div style="display: inline_block">
-      <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    </div>
-</details>
-
-<br />
-
-<details>
-  <summary><strong>⚙️ &nbsp;Gráfico de atividades Github</strong></summary>
-  <div align="center">
-    <br>
-    <div align="center">
-      <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=giovaniocan&theme=radical"/>
-    </div>    
-    <br>
-    <div align="center">
-      <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giovaniocan&theme=radical"/>
-      <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=giovaniocan&theme=radical"/>
-    </div>
-    <br>
-    <div align="center">
-      <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giovaniocan&theme=radical"/>
-    </div>
-    <br> 
-    <div align="center">
-      <img src="http://github-readme-streak-stats.herokuapp.com/?user=giovaniocan&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
-    </div>
-  </div>
-</details>
-
-<br />
-
-<div align="center">
-
-  ![Snake animation](https://github.com/giovaniocan/giovaniocan/blob/output/github-contribution-grid-snake.svg)
-
-    
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4328fb&height=120&section=footer"/>
+## Skills
+- Aprendizado Rápido
+- Metodologias Ágeis
+- Boa comunicação
+- Trabalho em equipe
+- Independente, solucionador de problemas e sempre com uma atitude proativa
+- Criativo
