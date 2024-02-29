@@ -2,7 +2,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4328fb&height=120&section=header"/>
 
 <!-- Título dinâmico -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Giovani+Apolinario+Ocan%2C+a+Full+Stack+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Giovani+Ocan%2C+;I'm+a+Full+Stack+Software+Engineer)](https://git.io/typing-svg)
+
 
 
 
